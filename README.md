@@ -3,7 +3,7 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # ruberto-lab's Website
+  # Ruberto Lab @ Florida State University
 
   Visit **[www.rubertolab.com](http://www.rubertolab.com)** 
 
