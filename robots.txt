@@ -1,1 +1,1 @@
-Sitemap: https://ruberto-lab.github.io/ruberto-lab-website/sitemap.xml
+Sitemap: http://rubertolab.com/sitemap.xml
