@@ -5,6 +5,6 @@
 
   # ruberto-lab's Website
 
-  Visit **[ruberto-lab.github.io/ruberto-lab-website](https://ruberto-lab.github.io/ruberto-lab-website)** 🚀
+  Visit **[rubertolab.com](http://rubertolab.com)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
