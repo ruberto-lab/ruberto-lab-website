@@ -7,27 +7,28 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We welcome inquiries from researchers, students, and others interested in our work. Please contact us to discuss potential research collaborations, student opportunities, joining the lab, or general questions about our research.
+
+Prospective students and researchers interested in available positions are encouraged to include a CV and a brief statement describing their background, research interests, relevant experience, and the type of opportunity they are seeking.
+
+Department of Biomedical Sciences
+College of Medicine
+Florida State University
+Office: MSR 3300-F
+1115 West Call Street
+Tallahassee, FL 32306-4300
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="anthony.ruberto@med.fsu.edu"
+  link="anthony.ruberto@med.fsu.edu"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/bpQLC8XvyKm2aZ2r5"
 %}
 
 {% include section.html %}
