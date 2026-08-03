@@ -2,7 +2,6 @@
 name: Anthony A. Ruberto, Ph.D.
 image: images/photo.jpg
 role: principal-investigator
-affiliation: Department of Biomedical Sciences &  Center of Population Sciences for Health Empowerment | Florida State University
 aliases:
   - A. Ruberto
   - A Ruberto
