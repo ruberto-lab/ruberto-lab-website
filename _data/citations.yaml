@@ -1,209 +1,403 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1016/j.bmcl.2026.130737
+  title: Unlocking the potential of ommatins as sustainable photosensitizers for photodynamic
+    therapy
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-05-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
+  - Arif Hussain
+  - Anthony A. Ruberto
+  - Harsh Bhatia
+  - Steven P. Maher
+  - Yifan Quan
+  - Lili Huang
+  - "Andr\xE9 Barateiro"
+  - Gia-Bao Nguyen
+  - David Budil
+  - Hannah Sayre
+  - Robert G. Griffin
+  - Dennis E. Kyle
+  - Prakash T. Parvatkar
+  - Roman Manetsch
+  publisher: Bioorganic &amp; Medicinal Chemistry Letters
+  date: '2026-11-01'
+  link: https://doi.org/hcdfk4
+  orcid: 0000-0002-3215-9484
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.64898/2026.03.22.713337
+  title: "MaRNAV-1, an intracellular virus of\n                  <i>Plasmodium vivax</i>\n\
+    \                  , is associated with increased parasite transmission and altered\
+    \ host immune response"
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
+  - Dynang Seng
+  - Katie Ko
+  - Agnes Orban
+  - Sokleap Heng
+  - Lionel Brice Feufack-Donfack
+  - "Janne Gr\xFCnebast"
+  - Nisa Ya
+  - Franck Dumetz
+  - Kieran Tebben
+  - Tiziano Vignolini
+  - Gregory Dore
+  - Nimol Khim
+  - Jeremy Salvador
+  - Zainab Ouaid
+  - "Thierry Lef\xE8vre"
+  - Anna Cohuet
+  - Cecile Sommen
+  - Claude Flamand
+  - Anthony A. Ruberto
+  - Abnet Abebe
+  - Meshesha Tsigie
+  - Geremew Tasew
+  - Getachew Tollera
+  - Benoit Malleret
+  - Tassew Tefera Shenkutie
+  - Eugenia Lo
+  - Nicholas M Anstey
+  - Mary E Petrone
+  - Tineke Cantaert
+  - Sebastian Baumgarten
+  - David Serre
+  - Jean Popovici
   publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  date: '2026-03-25'
+  link: https://doi.org/hcdfk5
+  orcid: 0000-0002-3215-9484
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:doi.org/10.1038/s41590-026-02537-z
+  title: Memory regulatory T cells reprogram into protective TFH cell-like effectors
+    in recurrent malaria
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Nana Appiah Essel Charles-Chess
+  - Anthony A. Ruberto
+  - Carson Bowers
+  - Clyde Schmidt-Silva
+  - Nyamekye Obeng-Adjei
+  - Matthew R. Hansen
+  - Disha B.R. Prasad
+  - Alex Rosenberg
+  - Boubacar Traore
+  - Kimberly D. Klonowski
+  - Peter D. Crompton
+  - Samarchith P. Kurup
+  publisher: Nature Immunology
+  date: '2026-08-01'
+  link: https://doi.org/hcdfk6
+  orcid: 0000-0002-3215-9484
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.7554/elife.98221
+  title: A drug repurposing approach reveals targetable epigenetic pathways in Plasmodium
+    vivax hypnozoites
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Steven P Maher
+  - Malina A Bakowski
+  - "Am\xE9lie Vantaux"
+  - Erika L Flannery
+  - Chiara Andolina
+  - Mohit Gupta
+  - Yevgeniya Antonova-Koch
+  - Magdalena Argomaniz
+  - Monica Cabrera-Mora
+  - Brice Campo
+  - Alexander T Chao
+  - Arnab K Chatterjee
+  - Wayne T Cheng
+  - Vorada Chuenchob
+  - Caitlin A Cooper
+  - Karissa Cottier
+  - Mary R Galinski
+  - Anke Harupa-Chung
+  - Hana Ji
+  - Sean B Joseph
+  - Todd Lenz
+  - Stefano Lonardi
+  - Jessica Matheson
+  - Sebastian A Mikolajczak
+  - Timothy Moeller
+  - Agnes Orban
+  - "Vivian Pad\xEDn-Irizarry"
+  - Kastin Pan
+  - "Julie P\xE9neau"
+  - Jacques Prudhomme
+  - Camille Roesch
+  - Anthony Ruberto
+  - Saniya S Sabnis
+  - Celia L Saney
+  - Jetsumon Sattabongkot
+  - Saleh Sereshki
+  - Sangrawee Suriyakan
+  - Ratawan Ubalee
+  - Yinsheng Wang
+  - Praphan Wasisakun
+  - Jiekai Yin
+  - Jean Popovici
+  - Case W McNamara
+  - Chester Joyner
+  - "Fran\xE7ois H Nosten"
+  - "Beno\xEEt Witkowski"
+  - Karine G Le Roch
+  - Dennis E Kyle
+  publisher: eLife
+  date: '2025-09-30'
+  link: https://doi.org/hcdfk7
+  orcid: 0000-0002-3215-9484
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1016/j.ejmech.2025.117572
+  title: Discovery and optimization of a novel carboxamide scaffold with selective
+    antimalarial activity
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Alicia Wagner
+  - Roger Trombley
+  - Maris Podgurski
+  - Anthony A. Ruberto
+  - Meng Cui
+  - Caitlin A. Cooper
+  - William E. Long
+  - Gia-Bao Nguyen
+  - Adriana A. Marin
+  - Sarah Lee Mai
+  - Franco Lombardo
+  - Steven P. Maher
+  - Dennis E. Kyle
+  - Roman Manetsch
+  publisher: European Journal of Medicinal Chemistry
+  date: '2025-07-01'
+  link: https://doi.org/hcdfk8
+  orcid: 0000-0002-3215-9484
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.26434/chemrxiv-2024-h5zgs
+  title: Discovery and Optimization of a Novel Carboxamide Scaffold with Selective
+    Antimalarial Activity
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Alicia Wagner
+  - Roger Trombley
+  - Maris Podgurski
+  - Anthony A. Ruberto
+  - Meng Cui
+  - Caitlin A. Cooper
+  - William E. Long
+  - Gia-Bao Nguyen
+  - Adriana A. Marin
+  - Sarah Lee Mai
+  - Franco Lombardo
+  - Steven P. Maher
+  - Dennis E. Kyle
+  - Roman Manetsch
+  publisher: American Chemical Society (ACS)
+  date: '2024-12-20'
+  link: https://doi.org/hcdfk9
+  orcid: 0000-0002-3215-9484
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1091/mbc.e24-08-0344
+  title: The <i>Toxoplasma gondii</i> homolog of ATPase inhibitory factor 1 is critical
+    for mitochondrial cristae maintenance and stress response
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Madelaine M. Usey
+  - Anthony A. Ruberto
+  - Kaelynn V. Parker
+  - Diego Huet
+  publisher: Molecular Biology of the Cell
+  date: '2025-01-01'
+  link: https://doi.org/hcdfmb
+  orcid: 0000-0002-3215-9484
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1186/s12936-024-05155-y
+  title: Screening the Global Health Priority Box against Plasmodium berghei liver
+    stage parasites using an inexpensive luciferase detection protocol
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Gia-Bao Nguyen
+  - Caitlin A. Cooper
+  - Olivia McWhorter
+  - Ritu Sharma
+  - Anne Elliot
+  - Anthony Ruberto
+  - Rafael Freitas
+  - Ashutosh K. Pathak
+  - Dennis E. Kyle
+  - Steven P. Maher
+  publisher: Malaria Journal
+  date: '2024-11-23'
+  link: https://doi.org/hcdfmc
+  orcid: 0000-0002-3215-9484
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1016/j.micinf.2024.105313
+  title: Unraveling the intricacies of host-pathogen interaction through single-cell
+    genomics
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Emanuele Gioacchino
+  - Koen Vandelannoote
+  - Anthony A. Ruberto
+  - Jean Popovici
+  - Tineke Cantaert
+  publisher: Microbes and Infection
+  date: '2024-09-01'
+  link: https://doi.org/hcdfmd
+  orcid: 0000-0002-3215-9484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41429-023-00655-6
+  title: 'Sheptide A: an antimalarial cyclic pentapeptide from a fungal strain in
+    the Herpotrichiellaceae'
+  authors:
+  - Robert A. Shepherd
+  - Cody E. Earp
+  - Kristof B. Cank
+  - Huzefa A. Raja
+  - Joanna Burdette
+  - Steven P. Maher
+  - Adriana A. Marin
+  - Anthony A. Ruberto
+  - Sarah Lee Mai
+  - Blaise A. Darveaux
+  - Dennis E. Kyle
+  - Cedric J. Pearce
+  - Nicholas H. Oberlies
+  publisher: The Journal of Antibiotics
+  date: '2023-09-20'
+  link: https://doi.org/hcdfmf
+  orcid: 0000-0002-3215-9484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fcimb.2022.986314
+  title: "Single-cell RNA profiling of\_Plasmodium vivax-infected hepatocytes reveals\
+    \ parasite- and host- specific transcriptomic signatures\_and therapeutic targets"
+  authors:
+  - Anthony A. Ruberto
+  - Steven P. Maher
+  - "Am\xE9lie Vantaux"
+  - Chester J. Joyner
+  - Caitlin Bourke
+  - Balu Balan
+  - Aaron Jex
+  - Ivo Mueller
+  - Benoit Witkowski
+  - Dennis E. Kyle
+  publisher: Frontiers in Cellular and Infection Microbiology
+  date: '2022-08-25'
+  link: https://doi.org/hcdfmg
+  orcid: 0000-0002-3215-9484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pntd.0010633
+  title: Single-cell RNA sequencing of Plasmodium vivax sporozoites reveals stage-
+    and species-specific transcriptomic signatures
+  authors:
+  - Anthony A. Ruberto
+  - Caitlin Bourke
+  - "Am\xE9lie Vantaux"
+  - Steven P. Maher
+  - Aaron Jex
+  - Benoit Witkowski
+  - Georges Snounou
+  - Ivo Mueller
+  publisher: PLOS Neglected Tropical Diseases
+  date: '2022-08-04'
+  link: https://doi.org/hcdfmh
+  orcid: 0000-0002-3215-9484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/elife.65574
+  title: KLF10 integrates circadian timing and sugar signaling to coordinate hepatic
+    metabolism
+  authors:
+  - Anthony A Ruberto
+  - "Aline Gr\xE9chez-Cassiau"
+  - "Sophie Gu\xE9rin"
+  - Luc Martin
+  - Johana S Revel
+  - Mohamed Mehiri
+  - Malayannan Subramaniam
+  - Franck Delaunay
+  - "Mich\xE8le Teboul"
+  publisher: eLife
+  date: '2021-08-17'
+  link: https://doi.org/hcdfmj
+  orcid: 0000-0002-3215-9484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-021-82914-w
+  title: Single-cell RNA sequencing reveals developmental heterogeneity among Plasmodium
+    berghei sporozoites
+  authors:
+  - Anthony A. Ruberto
+  - Caitlin Bourke
+  - Nicolas Merienne
+  - Thomas Obadia
+  - Rogerio Amino
+  - Ivo Mueller
+  publisher: Scientific Reports
+  date: '2021-02-22'
+  link: https://doi.org/hcdfmk
+  orcid: 0000-0002-3215-9484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-020-69085-w
+  title: MCD diet-induced steatohepatitis generates a diurnal rhythm of associated
+    biomarkers and worsens liver injury in Klf10 deficient mice
+  authors:
+  - "Pierre S. Lecl\xE8re"
+  - "D\xE9borah Rousseau"
+  - "St\xE9phanie Patouraux"
+  - "Sophie Gu\xE9rin"
+  - "St\xE9phanie Bonnafous"
+  - "Aline Gr\xE9chez-Cassiau"
+  - Anthony A. Ruberto
+  - Carmelo Luci
+  - Malayannan Subramaniam
+  - Albert Tran
+  - Franck Delaunay
+  - Philippe Gual
+  - "Mich\xE8le Teboul"
+  publisher: Scientific Reports
+  date: '2020-07-22'
+  link: https://doi.org/hcdfmm
+  orcid: 0000-0002-3215-9484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.70675/cb3492c2z5778z48e3za7d7zf17279fd718b
+  title: The role of the circadian transcription factor KLF10 in liver physiology
+  authors:
+  - Anthony Ruberto
+  publisher: "Agence Bibliographique de l'Enseignement Sup\xE9rieur"
+  date: ''
+  link: https://doi.org/hcdfmn
+  orcid: 0000-0002-3215-9484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1139/bcb-2018-0198
+  title: "Temperature and serine phosphorylation regulate glycerol-3-phosphate dehydrogenase\
+    \ in skeletal muscle of hibernating Richardson\u2019s ground squirrels"
+  authors:
+  - Anthony A. Ruberto
+  - Samantha M. Logan
+  - Kenneth B. Storey
+  publisher: Biochemistry and Cell Biology
+  date: '2019-04-01'
+  link: https://doi.org/hcdfmp
+  orcid: 0000-0002-3215-9484
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cbpb.2016.08.001
+  title: Purification and properties of glycerol-3-phosphate dehydrogenase from the
+    liver of the hibernating ground squirrel, Urocitellus richardsonii
+  authors:
+  - Anthony A. Ruberto
+  - Christine L. Childers
+  - Kenneth B. Storey
+  publisher: 'Comparative Biochemistry and Physiology Part B: Biochemistry and Molecular
+    Biology'
+  date: '2016-12-01'
+  link: https://doi.org/f9cpnf
+  orcid: 0000-0002-3215-9484
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -219,9 +413,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -238,21 +429,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
