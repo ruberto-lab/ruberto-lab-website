@@ -86,7 +86,7 @@
   - Samarchith P. Kurup
   publisher: Nature Immunology
   date: '2026-08-01'
-  link: https://doi.org/hcdfk6
+  link: https://doi.org/10.1038/s41590-026-02537-z
   orcid: 0000-0002-3215-9484
   plugin: sources.py
   file: sources.yaml
@@ -170,30 +170,6 @@
   publisher: European Journal of Medicinal Chemistry
   date: '2025-07-01'
   link: https://doi.org/hcdfk8
-  orcid: 0000-0002-3215-9484
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.26434/chemrxiv-2024-h5zgs
-  title: Discovery and Optimization of a Novel Carboxamide Scaffold with Selective
-    Antimalarial Activity
-  authors:
-  - Alicia Wagner
-  - Roger Trombley
-  - Maris Podgurski
-  - Anthony A. Ruberto
-  - Meng Cui
-  - Caitlin A. Cooper
-  - William E. Long
-  - Gia-Bao Nguyen
-  - Adriana A. Marin
-  - Sarah Lee Mai
-  - Franco Lombardo
-  - Steven P. Maher
-  - Dennis E. Kyle
-  - Roman Manetsch
-  publisher: American Chemical Society (ACS)
-  date: '2024-12-20'
-  link: https://doi.org/hcdfk9
   orcid: 0000-0002-3215-9484
   plugin: orcid.py
   file: orcid.yaml
