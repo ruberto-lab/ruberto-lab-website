@@ -1,8 +1,4 @@
 - id: doi:10.1016/j.bmcl.2026.130737
   image: images/ommatin-figure.jpg
-- id: doi:doi.org/10.1038/s41590-026-02537-z
-  link: https://doi.org/10.1038/s41590-026-02537-z
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41590-026-02537-z/MediaObjects/41590_2026_2537_Fig5_HTML.png?as=webp
-# some paper returned by an ORCID that you don't want to keep at all
 - id: doi:10.26434/chemrxiv-2024-h5zgs
   remove: true
