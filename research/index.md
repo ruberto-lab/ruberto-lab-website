@@ -14,7 +14,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-<!-- {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %} -->
+{% include citation.html lookup="Single-cell RNA profiling of Plasmodium vivax-infected hepatocytes reveals parasite- and host- specific transcriptomic signatures and therapeutic targets" style="rich" %}
 
 {% include section.html %}
 
