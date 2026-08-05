@@ -13,7 +13,9 @@ Meet our team
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 
-<!-- {% include list.html data="members" component="portrait" filter="role != 'pi'" %} -->
+{% comment %}
+{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% endcomment %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
