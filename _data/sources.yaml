@@ -5,4 +5,6 @@
 - id: doi:10.7554/elife.98221
   image: https://iiif.elifesciences.org/lax:98221%2Felife-98221-fig1-figsupp1-v1.tif/full/,1500/0/default.jpg
 - id: doi:doi.org/10.1038/s41590-026-02537-z
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41590-026-02537-z/MediaObjects/41590_2026_2537_Fig5_HTML.png?as=webp
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41590-026-02537-z/MediaObjects/41590_2026_2537_Fig5_HTML.png
+- id: doi:10.1016/j.ejmech.2025.117572
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S022352342500337X-ga1_lrg.jpg
