@@ -2,3 +2,5 @@
   image: images/ommatin-figure.jpg
 - id: doi:10.26434/chemrxiv-2024-h5zgs
   remove: true
+- id: doi:10.7554/elife.98221
+  image: https://iiif.elifesciences.org/lax:98221%2Felife-98221-fig1-figsupp1-v1.tif/full/,1500/0/default.jpg
