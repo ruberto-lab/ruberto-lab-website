@@ -90,7 +90,7 @@
   orcid: 0000-0002-3215-9484
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41590-026-02537-z/MediaObjects/41590_2026_2537_Fig5_HTML.png
+  image: images/41590_2026_2537_Fig5_HTML.jpg
 - id: doi:10.7554/elife.98221
   title: A drug repurposing approach reveals targetable epigenetic pathways in Plasmodium
     vivax hypnozoites
