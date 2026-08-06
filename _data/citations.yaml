@@ -68,29 +68,27 @@
   orcid: 0000-0002-3215-9484
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:doi.org/10.1038/s41590-026-02537-z
-  title: Memory regulatory T cells reprogram into protective TFH cell-like effectors
-    in recurrent malaria
+- id: pmid:42332262
+  title: Memory regulatory T cells reprogram into protective T
   authors:
   - Nana Appiah Essel Charles-Chess
-  - Anthony A. Ruberto
+  - Anthony A Ruberto
   - Carson Bowers
   - Clyde Schmidt-Silva
   - Nyamekye Obeng-Adjei
-  - Matthew R. Hansen
-  - Disha B.R. Prasad
+  - Matthew R Hansen
+  - Disha B R Prasad
   - Alex Rosenberg
   - Boubacar Traore
-  - Kimberly D. Klonowski
-  - Peter D. Crompton
-  - Samarchith P. Kurup
-  publisher: Nature Immunology
-  date: '2026-08-01'
-  link: https://doi.org/hcdfk6
+  - Kimberly D Klonowski
+  - Peter D Crompton
+  - Samarchith P Kurup
+  publisher: Nature immunology
+  date: '2026-06-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/42332262
   orcid: 0000-0002-3215-9484
-  plugin: sources.py
-  file: sources.yaml
-  image: images/41590_2026_2537_Fig5_HTML.jpg
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.7554/elife.98221
   title: A drug repurposing approach reveals targetable epigenetic pathways in Plasmodium
     vivax hypnozoites
@@ -265,8 +263,9 @@
   date: '2022-08-25'
   link: https://doi.org/hcdfmg
   orcid: 0000-0002-3215-9484
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/pvls-scrnaseq.jpg
 - id: doi:10.1371/journal.pntd.0010633
   title: Single-cell RNA sequencing of Plasmodium vivax sporozoites reveals stage-
     and species-specific transcriptomic signatures
@@ -343,16 +342,6 @@
   orcid: 0000-0002-3215-9484
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.70675/cb3492c2z5778z48e3za7d7zf17279fd718b
-  title: The role of the circadian transcription factor KLF10 in liver physiology
-  authors:
-  - Anthony Ruberto
-  publisher: "Agence Bibliographique de l'Enseignement Sup\xE9rieur"
-  date: ''
-  link: https://doi.org/hcdfmn
-  orcid: 0000-0002-3215-9484
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1139/bcb-2018-0198
   title: "Temperature and serine phosphorylation regulate glycerol-3-phosphate dehydrogenase\
     \ in skeletal muscle of hibernating Richardson\u2019s ground squirrels"
@@ -380,3 +369,25 @@
   orcid: 0000-0002-3215-9484
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:doi.org/10.1038/s41590-026-02537-z
+  title: Memory regulatory T cells reprogram into protective TFH cell-like effectors
+    in recurrent malaria
+  authors:
+  - Nana Appiah Essel Charles-Chess
+  - Anthony A. Ruberto
+  - Carson Bowers
+  - Clyde Schmidt-Silva
+  - Nyamekye Obeng-Adjei
+  - Matthew R. Hansen
+  - Disha B.R. Prasad
+  - Alex Rosenberg
+  - Boubacar Traore
+  - Kimberly D. Klonowski
+  - Peter D. Crompton
+  - Samarchith P. Kurup
+  publisher: Nature Immunology
+  date: '2026-08-01'
+  link: https://doi.org/hcdfk6
+  image: images/41590_2026_2537_Fig5_HTML.jpg
+  plugin: sources.py
+  file: sources.yaml
