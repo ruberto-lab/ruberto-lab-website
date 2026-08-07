@@ -68,27 +68,6 @@
   orcid: 0000-0002-3215-9484
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:42332262
-  title: Memory regulatory T cells reprogram into protective T
-  authors:
-  - Nana Appiah Essel Charles-Chess
-  - Anthony A Ruberto
-  - Carson Bowers
-  - Clyde Schmidt-Silva
-  - Nyamekye Obeng-Adjei
-  - Matthew R Hansen
-  - Disha B R Prasad
-  - Alex Rosenberg
-  - Boubacar Traore
-  - Kimberly D Klonowski
-  - Peter D Crompton
-  - Samarchith P Kurup
-  publisher: Nature immunology
-  date: '2026-06-22'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/42332262
-  orcid: 0000-0002-3215-9484
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.7554/elife.98221
   title: A drug repurposing approach reveals targetable epigenetic pathways in Plasmodium
     vivax hypnozoites
