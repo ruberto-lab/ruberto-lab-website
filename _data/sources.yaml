@@ -10,3 +10,5 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S022352342500337X-ga1_lrg.jpg
 - id: doi:10.3389/fcimb.2022.986314
   image: images/pvls-scrnaseq.jpg
+- id: doi:10.1091/mbc.e24-08-0344
+  images: https://www.molbiolcell.org/cms/asset/d788cb25-d9d5-485c-b256-380466a82db6/mbc-36-ar7-g001.gif
