@@ -12,3 +12,5 @@
   image: images/pvls-scrnaseq.jpg
 - id: doi:10.1091/mbc.e24-08-0344
   images: https://www.molbiolcell.org/cms/asset/d788cb25-d9d5-485c-b256-380466a82db6/mbc-36-ar7-g001.gif
+- id: pmid:42332262
+  remove: true
