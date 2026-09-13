@@ -1,10 +1,9 @@
 ---
-name: John Doe
+name: Victoria Stevens
 image: images/photo.jpg
-role: phd
-group: alum
+role: undergrad
 links:
-  github: john-doe
+  github: victoria-stevens
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+BSc. Biological Sciences '27
