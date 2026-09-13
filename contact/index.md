@@ -51,19 +51,17 @@ Prospective students and researchers interested in available positions are encou
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Department of Biomedical Sciences
+Department of Biomedical Sciences |
 College of Medicine
-Florida State University
-1115 West Call Street
-Tallahassee, FL 32306-4300
 {% endcapture %}
 
 {% capture col2 %}
- 
+Florida State University
 {% endcapture %}
 
 {% capture col3 %}
- 
+1115 West Call Street |
+Tallahassee, FL 32306-4300
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
