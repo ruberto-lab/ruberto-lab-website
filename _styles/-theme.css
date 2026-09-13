@@ -23,8 +23,8 @@
 }
 
 :root {
-  --title: "Manrope", sans-serif;
-  --heading: "Libre Bodoni", serif;
+  --title: "Roboto", sans-serif;
+  --heading: "Encode Sans Semi Expanded", sans-serif;
   --body: "Libre Baskerville", serif;
   --code: "Roboto Mono", monospace;
   --large: 1.2rem;
