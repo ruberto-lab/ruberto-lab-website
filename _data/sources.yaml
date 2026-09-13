@@ -14,3 +14,5 @@
   images: https://www.molbiolcell.org/cms/asset/d788cb25-d9d5-485c-b256-380466a82db6/mbc-36-ar7-g001.gif
 - id: pmid:42332262
   remove: true
+- id: doi:doi.org/10.1038/s41590-026-02537-z
+  remove: true
