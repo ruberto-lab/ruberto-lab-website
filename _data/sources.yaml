@@ -41,10 +41,10 @@
   image: https://iiif.elifesciences.org/lax/65574%2Felife-65574-fig2-v2.tif/full/1500,/0/default.jpg
   
 - id: doi:10.1038/s41598-021-82914-w
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-021-82914-w/MediaObjects/41598_2021_82914_Fig5_HTML.png
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/0641/7900125/6f480db07d5b/41598_2021_82914_Fig5_HTML.jpg
   
 - id: doi:10.1038/s41598-020-69085-w
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-020-69085-w/MediaObjects/41598_2020_69085_Fig1_HTML.png
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4450/7376252/12ef679110f9/41598_2020_69085_Fig1_HTML.jpg
   
 - id: doi:10.70675/cb3492c2z5778z48e3za7d7zf17279fd718b
   remove: true
