@@ -1,9 +1,9 @@
 ---
-name: Semi Nole
+name: Rashim Malhotra, Ph.D.
 image: images/photo.jpg
-description: Graduate student
-role: programmer
+description: Postdoctoral Researcher
+role: postdoc
 links:
-  email: ___@fsu.edu
+  email: rm26bo@fsu.edu@fsu.edu
 ---
 
