@@ -1,9 +1,9 @@
 ---
 title: Hosting Dr. Scott Lindner for the BMS Seminar Series
 author: 00_anthony-ruberto
-last_modified_at: 2026-09-02
+last_modified_at: 2026-09-03
 tags:
-  - seminars
+  - invited speakers
 ---
 
 <!-- excerpt start -->
