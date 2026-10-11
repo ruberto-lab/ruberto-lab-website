@@ -203,7 +203,7 @@
   orcid: 0000-0002-3215-9484
   plugin: sources.py
   file: sources.yaml
-  images: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=11585928_12936_2024_5155_Fig4_HTML.jpg
+  images: https://media.springernature.com/w316/springer-static/cover-hires/journal/12936?as=webp
 - id: doi:10.1016/j.micinf.2024.105313
   title: Unraveling the intricacies of host-pathogen interaction through single-cell
     genomics
@@ -219,7 +219,7 @@
   orcid: 0000-0002-3215-9484
   plugin: sources.py
   file: sources.yaml
-  images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab3e/12685568/cd7a6751e70c/nihms-2124753-f0001.jpg
+  images: images/scReview-image.jpg
 - id: doi:10.1038/s41429-023-00655-6
   title: 'Sheptide A: an antimalarial cyclic pentapeptide from a fungal strain in
     the Herpotrichiellaceae'
@@ -243,7 +243,7 @@
   orcid: 0000-0002-3215-9484
   plugin: sources.py
   file: sources.yaml
-  images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/64f1/10602849/e7fc3a5f0471/41429_2023_655_Fig1_HTML.jpg
+  images: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41429-023-00655-6/MediaObjects/41429_2023_655_Fig1_HTML.png
 - id: doi:10.3389/fcimb.2022.986314
   title: "Single-cell RNA profiling of\_Plasmodium vivax-infected hepatocytes reveals\
     \ parasite- and host- specific transcriptomic signatures\_and therapeutic targets"
@@ -283,7 +283,7 @@
   orcid: 0000-0002-3215-9484
   plugin: sources.py
   file: sources.yaml
-  images: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=9380936_pntd.0010633.g003.jpg
+  images: images/plosntd-spz.PNG
 - id: doi:10.7554/elife.65574
   title: KLF10 integrates circadian timing and sugar signaling to coordinate hepatic
     metabolism
@@ -303,7 +303,7 @@
   orcid: 0000-0002-3215-9484
   plugin: sources.py
   file: sources.yaml
-  images: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=8410083_elife-65574-fig2.jpg
+  images: https://iiif.elifesciences.org/lax/65574%2Felife-65574-fig2-v2.tif/full/1500,/0/default.jpg
 - id: doi:10.1038/s41598-021-82914-w
   title: Single-cell RNA sequencing reveals developmental heterogeneity among Plasmodium
     berghei sporozoites
@@ -320,7 +320,7 @@
   orcid: 0000-0002-3215-9484
   plugin: sources.py
   file: sources.yaml
-  images: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7900125_41598_2021_82914_Fig5_HTML.jpg
+  images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-021-82914-w/MediaObjects/41598_2021_82914_Fig5_HTML.png
 - id: doi:10.1038/s41598-020-69085-w
   title: MCD diet-induced steatohepatitis generates a diurnal rhythm of associated
     biomarkers and worsens liver injury in Klf10 deficient mice
