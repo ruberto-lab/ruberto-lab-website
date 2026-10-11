@@ -1,34 +1,50 @@
 - id: doi:10.1016/j.bmcl.2026.130737
   image: images/ommatin-figure.jpg
+  
 - id: doi:10.26434/chemrxiv-2024-h5zgs
   remove: true
+  
 - id: doi:10.7554/elife.98221
   image: https://iiif.elifesciences.org/lax:98221%2Felife-98221-fig1-figsupp1-v1.tif/full/,1500/0/default.jpg
+  
 - id: doi:doi:doi.org/10.1038/s41590-026-02537-z
   image: images/41590_2026_2537_Fig5_HTML.jpg
+  
 - id: doi:10.1016/j.ejmech.2025.117572
   image: https://ars.els-cdn.com/content/image/1-s2.0-S022352342500337X-ga1_lrg.jpg
+  
 - id: doi:10.3389/fcimb.2022.986314
   image: images/pvls-scrnaseq.jpg
+  
 - id: doi:10.1091/mbc.e24-08-0344
-  images: https://www.molbiolcell.org/cms/asset/d788cb25-d9d5-485c-b256-380466a82db6/mbc-36-ar7-g001.gif
+  image: https://www.molbiolcell.org/cms/asset/d788cb25-d9d5-485c-b256-380466a82db6/mbc-36-ar7-g001.gif
+  
 - id: pmid:42332262
   remove: true
+  
 - id: doi:doi.org/10.1038/s41590-026-02537-z
   remove: true
+  
 - id: doi:10.1186/s12936-024-05155-y
-  images: https://media.springernature.com/w316/springer-static/cover-hires/journal/12936?as=webp
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/12936?as=webp
+  
 - id: doi:10.1016/j.micinf.2024.105313
-  images: images/scReview-image.jpg
+  image: images/scReview-image.jpg
+  
 - id: doi:10.1038/s41429-023-00655-6
-  images: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41429-023-00655-6/MediaObjects/41429_2023_655_Fig1_HTML.png
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41429-023-00655-6/MediaObjects/41429_2023_655_Fig1_HTML.png
+  
 - id: doi:10.1371/journal.pntd.0010633
-  images: images/plosntd-spz.PNG
+  image: images/plosntd-spz.PNG
+  
 - id: doi:10.7554/elife.65574
-  images: https://iiif.elifesciences.org/lax/65574%2Felife-65574-fig2-v2.tif/full/1500,/0/default.jpg
+  image: https://iiif.elifesciences.org/lax/65574%2Felife-65574-fig2-v2.tif/full/1500,/0/default.jpg
+  
 - id: doi:10.1038/s41598-021-82914-w
-  images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-021-82914-w/MediaObjects/41598_2021_82914_Fig5_HTML.png
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-021-82914-w/MediaObjects/41598_2021_82914_Fig5_HTML.png
+  
 - id: doi:10.1038/s41598-020-69085-w
-  images: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7376252_41598_2020_69085_Fig1_HTML.jpg
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-020-69085-w/MediaObjects/41598_2020_69085_Fig1_HTML.png
+  
 - id: doi:10.70675/cb3492c2z5778z48e3za7d7zf17279fd718b
   remove: true
