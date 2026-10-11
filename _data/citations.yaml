@@ -201,8 +201,9 @@
   date: '2024-11-23'
   link: https://doi.org/hcdfmc
   orcid: 0000-0002-3215-9484
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  images: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=11585928_12936_2024_5155_Fig4_HTML.jpg
 - id: doi:10.1016/j.micinf.2024.105313
   title: Unraveling the intricacies of host-pathogen interaction through single-cell
     genomics
@@ -216,8 +217,9 @@
   date: '2024-09-01'
   link: https://doi.org/hcdfmd
   orcid: 0000-0002-3215-9484
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ab3e/12685568/cd7a6751e70c/nihms-2124753-f0001.jpg
 - id: doi:10.1038/s41429-023-00655-6
   title: 'Sheptide A: an antimalarial cyclic pentapeptide from a fungal strain in
     the Herpotrichiellaceae'
@@ -239,8 +241,9 @@
   date: '2023-09-20'
   link: https://doi.org/hcdfmf
   orcid: 0000-0002-3215-9484
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/64f1/10602849/e7fc3a5f0471/41429_2023_655_Fig1_HTML.jpg
 - id: doi:10.3389/fcimb.2022.986314
   title: "Single-cell RNA profiling of\_Plasmodium vivax-infected hepatocytes reveals\
     \ parasite- and host- specific transcriptomic signatures\_and therapeutic targets"
@@ -278,8 +281,9 @@
   date: '2022-08-04'
   link: https://doi.org/hcdfmh
   orcid: 0000-0002-3215-9484
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  images: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=9380936_pntd.0010633.g003.jpg
 - id: doi:10.7554/elife.65574
   title: KLF10 integrates circadian timing and sugar signaling to coordinate hepatic
     metabolism
@@ -297,8 +301,9 @@
   date: '2021-08-17'
   link: https://doi.org/hcdfmj
   orcid: 0000-0002-3215-9484
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  images: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=8410083_elife-65574-fig2.jpg
 - id: doi:10.1038/s41598-021-82914-w
   title: Single-cell RNA sequencing reveals developmental heterogeneity among Plasmodium
     berghei sporozoites
@@ -313,8 +318,9 @@
   date: '2021-02-22'
   link: https://doi.org/hcdfmk
   orcid: 0000-0002-3215-9484
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  images: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7900125_41598_2021_82914_Fig5_HTML.jpg
 - id: doi:10.1038/s41598-020-69085-w
   title: MCD diet-induced steatohepatitis generates a diurnal rhythm of associated
     biomarkers and worsens liver injury in Klf10 deficient mice
@@ -336,18 +342,9 @@
   date: '2020-07-22'
   link: https://doi.org/hcdfmm
   orcid: 0000-0002-3215-9484
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.70675/cb3492c2z5778z48e3za7d7zf17279fd718b
-  title: The role of the circadian transcription factor KLF10 in liver physiology
-  authors:
-  - Anthony Ruberto
-  publisher: "Agence Bibliographique de l'Enseignement Sup\xE9rieur"
-  date: ''
-  link: https://doi.org/hcdfmn
-  orcid: 0000-0002-3215-9484
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  images: https://www.ncbi.nlm.nih.gov/core/lw/2.0/html/tileshop_pmc/tileshop_pmc_inline.html?title=Click%20on%20image%20to%20zoom&p=PMC3&id=7376252_41598_2020_69085_Fig1_HTML.jpg
 - id: doi:10.1139/bcb-2018-0198
   title: "Temperature and serine phosphorylation regulate glycerol-3-phosphate dehydrogenase\
     \ in skeletal muscle of hibernating Richardson\u2019s ground squirrels"
