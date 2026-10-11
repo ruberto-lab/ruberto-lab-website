@@ -1,6 +1,6 @@
 ---
-title: The Ruberto Lab at ICOPA 2026 in Montréal
-author: anthony-ruberto
+title: The Ruberto Lab at ICOPA 2026 in Montreal
+author: 00_anthony-ruberto
 last_modified_at: 2026-08-21
 tags:
   - conferences
