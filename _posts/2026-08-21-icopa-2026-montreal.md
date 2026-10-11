@@ -1,4 +1,3 @@
-
 ---
 title: The Ruberto Lab at ICOPA 2026 in Montréal
 author: anthony-ruberto
