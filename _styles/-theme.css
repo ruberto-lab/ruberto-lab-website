@@ -25,7 +25,7 @@
 :root {
   --title: "Roboto", sans-serif;
   --heading: "Encode Sans Semi Expanded", sans-serif;
-  --body: "Libre Baskerville", serif;
+  --body: "Encode Sans Semi Expanded", sans-serif;
   --code: "Roboto Mono", monospace;
   --large: 1.2rem;
   --xl: 1.4rem;
