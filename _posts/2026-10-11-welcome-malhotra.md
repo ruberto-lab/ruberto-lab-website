@@ -1,6 +1,8 @@
 ---
 title: Welcome Dr. Malhotra
 author: 00_anthony-ruberto
+tags:
+  - lab news
 ---
 
 We are pleased to welcome Dr. Rashim Malhotra to the Ruberto Lab as a Postdoctoral Research Associate.
