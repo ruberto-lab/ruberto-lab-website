@@ -1,6 +1,6 @@
 ---
 title: Welcome Victoria Stevens '27 to the Ruberto Lab!
-author: anthony-ruberto
+author: 00_anthony-ruberto
 last_modified_at: 2026-08-28
 tags:
   - lab news
