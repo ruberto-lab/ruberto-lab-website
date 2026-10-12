@@ -35,19 +35,3 @@ The Ruberto Lab is an interdisciplinary team dedicated to understanding the biol
 This section is reserved for former lab members.
 Add alumni profiles here when applicable.
 -->
-
-{% include section.html %}
-
-## Funding
-
-We gratefully acknowledge support from the National Institutes of Health (NIAID) and Florida State University.
-
-{% capture content %}
-
-[![National Institutes of Health](https://upload.wikimedia.org/wikipedia/commons/a/a6/NIH_2013_logo_vertical.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original)](https://www.nih.gov/)
-
-[![Florida State University](https://upload.wikimedia.org/wikipedia/en/6/6b/Florida_State_University_seal.svg)](https://www.fsu.edu/)
-
-{% endcapture %}
-
-{% include grid.html content=content %}
