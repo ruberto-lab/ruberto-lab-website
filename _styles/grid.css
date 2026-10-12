@@ -66,7 +66,7 @@
 
 .funding-logos .grid img {
   display: block;
-  width: 50px;
+  width: 80px;
   max-width: 100%;
   height: auto;
   margin: 0 auto;
@@ -80,7 +80,7 @@
     gap: 20px;
   }
   .funding-logos .grid img {
-    width: 50px;
+    width: 70px;
   }
 }
 
