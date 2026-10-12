@@ -14,8 +14,9 @@
   date: '2026-09-24'
   link: https://doi.org/hckq4d
   orcid: 0000-0002-3215-9484
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://upload.wikimedia.org/wikipedia/en/b/bf/Nature_Communications_-_Journal_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
 - id: doi:10.1016/j.bmcl.2026.130737
   title: Unlocking the potential of ommatins as sustainable photosensitizers for photodynamic
     therapy
@@ -243,7 +244,7 @@
   orcid: 0000-0002-3215-9484
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41429-023-00655-6/MediaObjects/41429_2023_655_Fig1_HTML.png
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/64f1/10602849/e7fc3a5f0471/41429_2023_655_Fig1_HTML.jpg
 - id: doi:10.3389/fcimb.2022.986314
   title: "Single-cell RNA profiling of\_Plasmodium vivax-infected hepatocytes reveals\
     \ parasite- and host- specific transcriptomic signatures\_and therapeutic targets"
