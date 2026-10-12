@@ -152,27 +152,27 @@ header[data-big] .subtitle {
    Laptop and Desktop Font Size Adjustments
    ========================================== */
 /*
-  Applies only to screens at least 1024px wide
+  Applies to screens at least 1024px wide
   with a fine pointer (mouse or trackpad).
 
-  Subtitle and navigation fonts increase
-  by 30% relative to their original sizes.
+  Increases the standard header subtitle
+  and navigation text by 15%.
 
   Mobile and touch-only tablet devices
   retain their original styling.
 */
 @media screen and (min-width: 1024px) and (pointer: fine) {
-  /* Laboratory name: unchanged */
+  /* Laboratory name: original size */
   header:not([data-big]) .title {
     font-size: var(--large);
   }
-  /* Laboratory subtitle: 30% larger */
+  /* Laboratory subtitle: 15% larger */
   header:not([data-big]) .subtitle {
-    font-size: calc(var(--medium) * 1.3);
+    font-size: calc(var(--medium) * 1.15);
   }
-  /* Navigation links: 30% larger */
+  /* Navigation links: 15% larger */
   header nav {
-    font-size: calc(var(--medium) * 1.3);
+    font-size: calc(var(--medium) * 1.15);
   }
 }
 
