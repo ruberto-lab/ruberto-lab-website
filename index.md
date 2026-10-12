@@ -7,13 +7,13 @@ The Ruberto Lab brings together expertise in cellular and molecular biology, 'om
 
 ## Funding
 
-We gratefully acknowledge support from the National Institutes of Health (NIAID) and Florida State University.
+We gratefully acknowledge support from the National Institutes of Health | National Institute of Allergy and Infectious Diseases (NIAID) and Florida State University.
 
 {% capture content %}
 
-[![National Institutes of Health](https://upload.wikimedia.org/wikipedia/commons/a/a6/NIH_2013_logo_vertical.svg)](https://www.nih.gov/)
+[![National Institutes of Health](https://upload.wikimedia.org/wikipedia/commons/a/a6/NIH_2013_logo_vertical.svg)](https://www.niaid.nih.gov/)
 
-[![Florida State University](https://upload.wikimedia.org/wikipedia/en/6/6b/Florida_State_University_seal.svg)](https://www.fsu.edu/)
+[![Florida State University](https://upload.wikimedia.org/wikipedia/en/6/6b/Florida_State_University_seal.svg)](https://www.research.fsu.edu/)
 
 {% endcapture %}
 
