@@ -42,4 +42,46 @@
   display: none;
 }
 
+/* ==========================================
+   Funding Logos - Homepage Only
+   ========================================== */
+/*
+  These styles apply only to images inside
+  the funding-logos container.
+
+  Other website grids remain unchanged.
+*/
+.funding-logos .grid {
+  grid-template-columns: repeat(2, minmax(0, 140px));
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  margin: 30px 0;
+}
+
+.funding-logos .grid > * {
+  width: 100%;
+  text-align: center;
+}
+
+.funding-logos .grid img {
+  display: block;
+  width: 100px;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+/* Smaller screens */
+@media (max-width: 500px) {
+  .funding-logos .grid {
+    grid-template-columns: repeat(2, minmax(0, 120px));
+    gap: 20px;
+  }
+  .funding-logos .grid img {
+    width: 90px;
+  }
+}
+
 /*# sourceMappingURL=grid.css.map */
