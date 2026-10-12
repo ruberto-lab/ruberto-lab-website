@@ -9,8 +9,9 @@ nav:
 
 {% include section.html %}
 
-## Ruberto Laboratory
-*Florida State University | May 2026 – Present*
+## Publications Since Joining FSU
+
+<p><em>Florida State University | May 2026 – Present</em></p>
 
 {% include list.html data="citations" component="citation" style="rich" start_date="2026-05-01" %}
 
@@ -18,7 +19,8 @@ nav:
 
 ---
 
-## Previous Appointments
-*Publications before May 2026*
+## Publications Prior to FSU
+
+<p><em>Publications before May 2026</em></p>
 
 {% include list.html data="citations" component="citation" style="rich" end_date="2026-05-01" %}
