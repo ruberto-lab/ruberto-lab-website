@@ -7,15 +7,18 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-newspaper" %}Publications
 
-<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. -->
-
 {% include section.html %}
 
-## All
+## Ruberto Laboratory
+*Florida State University | May 2026 – Present*
 
-{% include search-box.html %}
+{% include list.html data="citations" component="citation" style="rich" start_date="2026-05-01" %}
 
-{% include search-info.html %}
+<br>
 
-{% include list.html data="citations" component="citation" style="rich" %}
+---
+
+## Previous Appointments
+*Publications before May 2026*
+
+{% include list.html data="citations" component="citation" style="rich" end_date="2026-05-01" %}
