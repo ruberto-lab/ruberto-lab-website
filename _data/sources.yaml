@@ -32,7 +32,7 @@
   image: images/scReview-image.jpg
   
 - id: doi:10.1038/s41429-023-00655-6
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41429-023-00655-6/MediaObjects/41429_2023_655_Fig1_HTML.png
+  image: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/64f1/10602849/e7fc3a5f0471/41429_2023_655_Fig1_HTML.jpg
   
 - id: doi:10.1371/journal.pntd.0010633
   image: images/plosntd-spz.PNG
@@ -48,3 +48,6 @@
   
 - id: doi:10.70675/cb3492c2z5778z48e3za7d7zf17279fd718b
   remove: true
+
+- id: doi:10.1038/s41467-026-77828-y
+  image: https://upload.wikimedia.org/wikipedia/en/b/bf/Nature_Communications_-_Journal_Cover.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled
