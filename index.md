@@ -11,22 +11,12 @@ We gratefully acknowledge support from the National Institutes of Health - Natio
 
 {% capture content %}
 
-<a href="https://www.niaid.nih.gov/">
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/a/a6/NIH_2013_logo_vertical.svg"
-    alt="National Institutes of Health"
-    style="width: 120px; max-width: 100%; height: auto;"
-  >
-</a>
+[![National Institutes of Health](https://upload.wikimedia.org/wikipedia/commons/a/a6/NIH_2013_logo_vertical.svg)](https://www.niaid.nih.gov/)
 
-<a href="https://www.research.fsu.edu/">
-  <img
-    src="https://upload.wikimedia.org/wikipedia/en/6/6b/Florida_State_University_seal.svg"
-    alt="Florida State University"
-    style="width: 120px; max-width: 100%; height: auto;"
-  >
-</a>
+[![Florida State University](https://upload.wikimedia.org/wikipedia/en/6/6b/Florida_State_University_seal.svg)](https://www.research.fsu.edu/)
 
 {% endcapture %}
 
+<div class="funding-logos" markdown="1">
 {% include grid.html content=content %}
+</div>
