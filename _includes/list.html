@@ -5,6 +5,56 @@
   | data_filter: include.filter
 %}
 
+{% comment %}
+  Optional publication date filtering.
+
+  start_date: include items on or after this date
+  end_date:   include items before this date
+
+  Dates should be provided as YYYY-MM-DD.
+{% endcomment %}
+
+{% if include.start_date or include.end_date %}
+  {% assign filtered_data = "" | split: "," %}
+
+  {% assign start_timestamp = 0 %}
+  {% assign end_timestamp = 0 %}
+
+  {% if include.start_date %}
+    {% assign start_timestamp = include.start_date | date: "%s" | plus: 0 %}
+  {% endif %}
+
+  {% if include.end_date %}
+    {% assign end_timestamp = include.end_date | date: "%s" | plus: 0 %}
+  {% endif %}
+
+  {% for d in data %}
+    {% if d.date %}
+      {% assign publication_timestamp = d.date | date: "%s" | plus: 0 %}
+      {% assign include_item = true %}
+
+      {% if include.start_date %}
+        {% if publication_timestamp < start_timestamp %}
+          {% assign include_item = false %}
+        {% endif %}
+      {% endif %}
+
+      {% if include.end_date %}
+        {% if publication_timestamp >= end_timestamp %}
+          {% assign include_item = false %}
+        {% endif %}
+      {% endif %}
+
+      {% if include_item %}
+        {% assign single_item = data | slice: forloop.index0, 1 %}
+        {% assign filtered_data = filtered_data | concat: single_item %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  {% assign data = filtered_data %}
+{% endif %}
+
 {% assign years = data
   | group_by_exp: "d", "d.date | date: '%Y'"
   | sort: "name"
