@@ -15,7 +15,7 @@ We gratefully acknowledge support from the National Institutes of Health - Natio
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/a/a6/NIH_2013_logo_vertical.svg"
     alt="National Institutes of Health"
-    style="width: 50%; height: auto;"
+    style="width: 120px; max-width: 100%; height: auto;"
   >
 </a>
 
@@ -23,7 +23,7 @@ We gratefully acknowledge support from the National Institutes of Health - Natio
   <img
     src="https://upload.wikimedia.org/wikipedia/en/6/6b/Florida_State_University_seal.svg"
     alt="Florida State University"
-    style="width: 50%; height: auto;"
+    style="width: 120px; max-width: 100%; height: auto;"
   >
 </a>
 
