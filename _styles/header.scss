@@ -58,10 +58,12 @@ header a {
   text-align: left;
 }
 
+/* Original laboratory name styling */
 .title {
   font-size: var(--large);
 }
 
+/* Original laboratory subtitle styling */
 .subtitle {
   opacity: 0.65;
   font-weight: var(--thin);
@@ -112,6 +114,7 @@ nav > a:hover {
   color: var(--primary);
 }
 
+/* Mobile and tablet navigation */
 header:not([data-big]) {
   @media (max-width: $collapse) {
     justify-content: flex-end;
@@ -132,6 +135,7 @@ header:not([data-big]) {
   }
 }
 
+/* Large homepage header */
 header[data-big] {
   justify-content: center;
   align-items: center;
@@ -165,4 +169,36 @@ header[data-big] {
   .subtitle {
     font-size: var(--large);
   }
+}
+
+/* ==========================================
+   Laptop and Desktop Font Size Adjustments
+   ========================================== */
+
+/*
+  Applies to screens at least 1024px wide
+  that use a fine pointer (mouse/trackpad).
+
+  Mobile and touch-only tablet devices
+  retain their original font sizes.
+*/
+
+@media screen and (min-width: 1024px) and (pointer: fine) {
+
+  /* Standard header laboratory name */
+  header:not([data-big]) .title {
+    font-size: 24px;
+    font-weight: 600;
+  }
+
+  /* Standard header laboratory subtitle */
+  header:not([data-big]) .subtitle {
+    font-size: 14px;
+  }
+
+  /* Navigation links */
+  header nav {
+    font-size: 17px;
+  }
+
 }
