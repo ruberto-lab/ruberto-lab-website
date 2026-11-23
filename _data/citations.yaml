@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.11.18.767516
+  title: "Spatial Transcriptomics Reveals Host Gene Expression Patterns Associated\
+    \ with\n                  <i>Naegleria fowleri</i>\n                  Infection\
+    \ in the Murine Brain"
+  authors:
+  - Joseph Dainis
+  - Michael Bailey
+  - Mackenzie A.C. Sievert
+  - Anthony A Ruberto
+  - Dennis E Kyle
+  publisher: openRxiv
+  date: '2026-11-20'
+  link: https://doi.org/hctpzd
+  orcid: 0000-0002-3215-9484
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41467-026-77828-y
   title: A global S-palmitoylation map of Trypanosoma cruzi identifies ABCA10 as a
     key component of a redundant heme-acquisition system
